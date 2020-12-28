@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P002</string>
+    <string name="votre_poids">Votre Poids</string>
+    <string name="votre_taille">Votre Taille</string>
+    <string name="votre_age">Votre Age</string>
+    <string name="calculer">Calculer</string>
+    <string name="calcul_de_votre_imc">Calcul de votre IMC</string>
+    <string name="votre_taille_m">Votre Taille (m)</string>
+    <string name="votre_poids_kg">Votre Poids (Kg)</string>
+    <string name="votre_imc">Votre IMC</string>
+</resources>
